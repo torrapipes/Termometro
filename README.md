@@ -1,1 +1,1 @@
-# Termometro
+# Thermostat
