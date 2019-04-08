@@ -7,7 +7,6 @@ import interfaces.Heater;
 import interfaces.Thermometer;
 import other.Pikachu;
 import types.RoomTemperature;
-//import types.RoomTemperature;
 
 public class Main {
 
