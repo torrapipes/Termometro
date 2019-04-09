@@ -21,6 +21,7 @@ public class Regulator {
         }
     }
 
+
     private void message(RegulatorDisplayCodes code, RoomTemperature temperature) {
         switch (code) {
             case HEATING:
@@ -34,5 +35,6 @@ public class Regulator {
                 break;
         }
     }
+
 
 }
