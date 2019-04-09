@@ -1,9 +1,11 @@
 package interfaces;
 
+import types.RoomTemperature;
+
 public interface Heater {
 
-    engage(RoomTemperature temperature);
+    void engage(RoomTemperature temperature);
 
-    disengage(RoomTemperature temperature);
+    void disengage(RoomTemperature temperature);
 
 }

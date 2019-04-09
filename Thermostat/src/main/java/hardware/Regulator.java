@@ -2,8 +2,8 @@ package hardware;
 
 import interfaces.Heater;
 import interfaces.Thermometer;
-import org.foobarspam.furnaceDIP.types.RegulatorDisplayCodes;
-import org.foobarspam.furnaceDIP.types.RoomTemperature;
+import types.RegulatorDisplayCodes;
+import types.RoomTemperature;
 
 public class Regulator {
 
